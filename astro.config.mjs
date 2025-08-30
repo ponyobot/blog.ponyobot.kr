@@ -28,7 +28,7 @@ import cloudflare from "@astrojs/cloudflare";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://ponyobot.kr/",
+  site: "https://blog.ponyobot.kr/",
   base: "/",
   trailingSlash: "always",
 
