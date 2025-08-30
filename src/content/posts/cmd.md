@@ -3,7 +3,7 @@ title: 명령어
 published: 2025-01-06
 description: '포뇨봇 명령어'
 image: ''
-tags: [명령어,프로그래밍,카카오톡 봇]
+tags: [가이드,프로그래밍,카카오톡 봇]
 category: '정책/안내'
 draft: false 
 ---

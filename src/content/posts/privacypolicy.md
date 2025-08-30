@@ -3,7 +3,7 @@ title: 개인정보처리방침
 published: 2025-01-05
 description: '포뇨봇 개인정보처리방침'
 image: ''
-tags: [개인정보처리방침,프로그래밍,카카오톡 봇]
+tags: [정책,안내]
 category: '정책/안내'
 draft: false
 ---

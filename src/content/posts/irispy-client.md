@@ -3,7 +3,7 @@ title: irispy-client 레퍼런스
 published: 2025-01-02
 description: 'Iris 카카오톡봇 개발을 위한 Python 라이브러리'
 image: ''
-tags: [개인정보처리방침]
+tags: [가이드,프로그래밍,카카오톡 봇]
 category: '카카오톡 봇'
 draft: false
 ---

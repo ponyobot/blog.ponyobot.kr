@@ -3,7 +3,7 @@ title: iris 설치하기
 published: 2025-01-03
 description: '안드로이드 네이티브 DB기반 봇 프레임워크'
 image: ''
-tags: [개인정보처리방침,프로그래밍,카카오톡 봇]
+tags: [가이드,프로그래밍,카카오톡 봇]
 category: '카카오톡 봇'
 draft: false
 ---

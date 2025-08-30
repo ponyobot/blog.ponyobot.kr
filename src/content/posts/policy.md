@@ -3,7 +3,7 @@ title: 이용약관
 published: 2025-01-04
 description: '포뇨봇 이용약관'
 image: ''
-tags: [약관,프로그래밍,카카오톡 봇]
+tags: [정책,안내]
 category: '정책/안내'
 draft: false 
 ---

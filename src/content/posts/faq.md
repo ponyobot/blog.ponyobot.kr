@@ -3,7 +3,7 @@ title: 자주 묻는 질문
 published: 2025-01-01
 description: '궁금하신 점, 여기서 해결하세요'
 image: ''
-tags: [faq,자주 묻는 질문,프로그래밍,카카오톡 봇]
+tags: [정책,안내]
 category: '정책/안내'
 draft: false 
 ---
