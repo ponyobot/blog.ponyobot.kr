@@ -46,7 +46,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.About,
 		{
 			name: "GitHub",
-			url: "https://github.com/ponyobot/ponyobot-blog", // Internal links should not include the base path, as it is automatically added
+			url: "https://github.com/ponyobot/blog.ponyobot.kr", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 	],
@@ -73,7 +73,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "line-md:github",
-			url: "https://github.com/ponyobot/ponyobot-blog",
+			url: "https://github.com/ponyobot",
 		},
 	],
 };
