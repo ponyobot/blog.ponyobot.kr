@@ -1,7 +1,7 @@
 # About
 이 사이트는 포뇨의 개인 블로그입니다.
 
-::github{repo="ponyobot/ponyobot-blog"}
+::github{repo="ponyobot/blog.ponyobot.kr"}
 
 ### 구동환경
 > - `Redroid`을 이용해 카카오톡/메세지전송부만 담당합니다
